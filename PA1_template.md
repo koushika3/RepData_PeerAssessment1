@@ -434,3 +434,4 @@ j+geom_line(col="darkred")+ggtitle("Average steps per time interval: weekdays vs
 ```
 
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2-1.png)
+
